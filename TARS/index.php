@@ -94,7 +94,7 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 </label><br />
 <input type="submit" value="Translate" class="btn-success btn-lg">
 </form><hr />
-<a href="http://case.com" ><button class="btn-lg btn-default">Go to CASE</button></a><br />
+<a href="case" ><button class="btn-lg btn-default">Go to CASE</button></a><br />
 <label class="lab">Morse <br />
 <textarea name="morse" rows="6" cols="50"><?php echo $output ?></textarea><br />
 </label>
