@@ -1,0 +1,31 @@
+@charset "utf-8";
+body{
+	background-color:#FC1547;
+}
+#main{
+	background-color:#454E83;
+	margin-left:100px;
+	margin-right:100px;
+	text-align:center;
+	padding:10px;
+	}
+#foot{
+background-color:#F4E686;
+text-align:right;
+position:relative;
+bottom:0px;
+right:0px;
+left:0px;
+height:30px;
+text-height:auto;
+}
+#heading{
+	top:0px;
+background-color:#1CE505;
+}
+.lab{
+font-size:18px;
+font-weight:300;
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+color:#F9BA02;
+}
